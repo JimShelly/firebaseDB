@@ -1,0 +1,11 @@
+C:\Users\jimsh\source\repos\UnityProject\UnityProject\bin\Debug\netcoreapp2.2\UnityProject.deps.json
+C:\Users\jimsh\source\repos\UnityProject\UnityProject\bin\Debug\netcoreapp2.2\UnityProject.runtimeconfig.json
+C:\Users\jimsh\source\repos\UnityProject\UnityProject\bin\Debug\netcoreapp2.2\UnityProject.runtimeconfig.dev.json
+C:\Users\jimsh\source\repos\UnityProject\UnityProject\bin\Debug\netcoreapp2.2\UnityProject.dll
+C:\Users\jimsh\source\repos\UnityProject\UnityProject\obj\Debug\netcoreapp2.2\UnityProject.csprojAssemblyReference.cache
+C:\Users\jimsh\source\repos\UnityProject\UnityProject\obj\Debug\netcoreapp2.2\UnityProject.csproj.CoreCompileInputs.cache
+C:\Users\jimsh\source\repos\UnityProject\UnityProject\obj\Debug\netcoreapp2.2\UnityProject.AssemblyInfoInputs.cache
+C:\Users\jimsh\source\repos\UnityProject\UnityProject\obj\Debug\netcoreapp2.2\UnityProject.AssemblyInfo.cs
+C:\Users\jimsh\source\repos\UnityProject\UnityProject\bin\Debug\netcoreapp2.2\UnityProject.pdb
+C:\Users\jimsh\source\repos\UnityProject\UnityProject\obj\Debug\netcoreapp2.2\UnityProject.dll
+C:\Users\jimsh\source\repos\UnityProject\UnityProject\obj\Debug\netcoreapp2.2\UnityProject.pdb
